@@ -1,0 +1,16 @@
+{
+  "name":"Frontend-task",
+  "private":true,
+  "version":"0.1.0",
+  "description":"Frontend is used for task management app",
+  "scripts":{
+    "start":"react-scripts start",
+    "build":"react-scripts build"
+  },
+
+  "dependencies":{
+    "react":"^18.2.0",
+    "react-dom":"^18.2.0",
+    "axios":"^1.6.2",
+    "react-beautiful-dnd":"^13.1.1"
+  }}
